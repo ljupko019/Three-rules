@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 758721e43f417c94493c86ac2898e5fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6370909597156532176
+    second: run_spear_0
+  - first:
+      213: -2491737658733448061
+    second: run_spear_1
+  - first:
+      213: -6019418785688599896
+    second: run_spear_2
+  - first:
+      213: 476494898407834205
+    second: run_spear_3
+  - first:
+      213: -8420176095702355430
+    second: run_spear_4
+  - first:
+      213: 299340839332254784
+    second: run_spear_5
+  - first:
+      213: 1842906655280809006
+    second: run_spear_6
+  - first:
+      213: 1346171082221336090
+    second: run_spear_7
+  - first:
+      213: -7200769070052827601
+    second: run_spear_8
+  - first:
+      213: 3819119454956368009
+    second: run_spear_9
+  - first:
+      213: -2807723767952167254
+    second: run_spear_10
+  - first:
+      213: 4696505486559516180
+    second: run_spear_11
+  - first:
+      213: 7797712369293897034
+    second: run_spear_12
+  - first:
+      213: 4823951599005519672
+    second: run_spear_13
+  - first:
+      213: 4100310317107535466
+    second: run_spear_14
+  - first:
+      213: -42602810344717830
+    second: run_spear_15
+  - first:
+      213: 8456951563761998590
+    second: run_spear_16
+  - first:
+      213: 1440317224845647518
+    second: run_spear_17
+  - first:
+      213: -4528878544819946878
+    second: run_spear_18
+  - first:
+      213: 7160589721528064622
+    second: run_spear_19
+  - first:
+      213: -204372582446317901
+    second: run_spear_20
+  - first:
+      213: -7210061119211973741
+    second: run_spear_21
+  - first:
+      213: -5299753662164708759
+    second: run_spear_22
+  - first:
+      213: -7645849699390806823
+    second: run_spear_23
+  - first:
+      213: -2705814667335967022
+    second: run_spear_24
+  - first:
+      213: 989178044828593841
+    second: run_spear_25
+  - first:
+      213: -6986063885992244367
+    second: run_spear_26
+  - first:
+      213: 3822711840356311362
+    second: run_spear_27
+  - first:
+      213: 3946149388823066703
+    second: run_spear_28
+  - first:
+      213: 5237417256216030678
+    second: run_spear_29
+  - first:
+      213: -7438784363764064734
+    second: run_spear_30
+  - first:
+      213: 6977802948945907152
+    second: run_spear_31
+  - first:
+      213: -4762528628381801031
+    second: run_spear_32
+  - first:
+      213: 5443768226838488957
+    second: run_spear_33
+  - first:
+      213: 8929943219485167779
+    second: run_spear_34
+  - first:
+      213: -6589053795298018625
+    second: run_spear_35
+  - first:
+      213: 8373460605255104221
+    second: run_spear_36
+  - first:
+      213: -5309821662997943537
+    second: run_spear_37
+  - first:
+      213: 3307454041982732357
+    second: run_spear_38
+  - first:
+      213: -3106935452618687757
+    second: run_spear_39
+  - first:
+      213: 912838287484530457
+    second: run_spear_40
+  - first:
+      213: -2704349512876167938
+    second: run_spear_41
+  - first:
+      213: 6696323719451595088
+    second: run_spear_42
+  - first:
+      213: -4712123418784402583
+    second: run_spear_43
+  - first:
+      213: -7029570089988561188
+    second: run_spear_44
+  - first:
+      213: -5416112897099344355
+    second: run_spear_45
+  - first:
+      213: -8881281930848342933
+    second: run_spear_46
+  - first:
+      213: 8628313948865768944
+    second: run_spear_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_spear_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 339
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df54aa26840a6850800000000000000
+      internalID: 6370909597156532176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 337
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384bab91dc19b6dd0800000000000000
+      internalID: -2491737658733448061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 336
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c7b4b18ab67ca0800000000000000
+      internalID: -6019418785688599896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 337
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5282e4e599dc9600800000000000000
+      internalID: 476494898407834205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12fc65f376852b80800000000000000
+      internalID: -8420176095702355430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 337
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449a2b48e8772400800000000000000
+      internalID: 299340839332254784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 336
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24473eb6d1539910800000000000000
+      internalID: 1842906655280809006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 337
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b4ba877f8ea210800000000000000
+      internalID: 1346171082221336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 278
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e91ed9eaab11c90800000000000000
+      internalID: -7200769070052827601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 277
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9803573e8ec300530800000000000000
+      internalID: 3819119454956368009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 277
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae2ac7eb16f809d0800000000000000
+      internalID: -2807723767952167254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 279
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169d0c5bd65d2140800000000000000
+      internalID: 4696505486559516180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 277
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dae68f51a073c60800000000000000
+      internalID: 7797712369293897034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 276
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fc660cb6e12f240800000000000000
+      internalID: 4823951599005519672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 275
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5010528a37e830800000000000000
+      internalID: 4100310317107535466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 278
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af148fe38f4a86ff0800000000000000
+      internalID: -42602810344717830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad7b0f3a02d5570800000000000000
+      internalID: 8456951563761998590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 212
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e1dc682e80df310800000000000000
+      internalID: 1440317224845647518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 211
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a7e1165f03621c0800000000000000
+      internalID: -4528878544819946878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5efdc9668f5360800000000000000
+      internalID: 7160589721528064622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 213
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be3575183ce92df0800000000000000
+      internalID: -204372582446317901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d384dc97b0fb90800000000000000
+      internalID: -7210061119211973741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 211
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d891af1e7376b0800000000000000
+      internalID: -5299753662164708759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 212
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a8c5353c74e590800000000000000
+      internalID: -7645849699390806823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ded56565e3037ad0800000000000000
+      internalID: -2705814667335967022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beaf9dd0344abd00800000000000000
+      internalID: 989178044828593841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4f31d8e38c0f90800000000000000
+      internalID: -6986063885992244367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2412e1b4a200d0530800000000000000
+      internalID: 3822711840356311362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487c6726f983c630800000000000000
+      internalID: 3946149388823066703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dde149de3b0fa840800000000000000
+      internalID: 5237417256216030678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22edc15980124c890800000000000000
+      internalID: -7438784363764064734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0894efc226d060800000000000000
+      internalID: 6977802948945907152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 86
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5aca8027918edb0800000000000000
+      internalID: -4762528628381801031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7724482c562c8b40800000000000000
+      internalID: 5443768226838488957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a052d59b088deb70800000000000000
+      internalID: 8929943219485167779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 83
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7255cb7afe84a0800000000000000
+      internalID: -6589053795298018625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 85
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd635f45e02843470800000000000000
+      internalID: 8373460605255104221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b65548459bf46b0800000000000000
+      internalID: -5309821662997943537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 83
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488f437def66ed20800000000000000
+      internalID: 3307454041982732357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 84
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa7896caa2f1e4d0800000000000000
+      internalID: -3106935452618687757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f24e6069d0bac00800000000000000
+      internalID: 912838287484530457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efce3804278387ad0800000000000000
+      internalID: -2704349512876167938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0515fe6b1fe1eec50800000000000000
+      internalID: 6696323719451595088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 13
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637e8d67bc2b9eb0800000000000000
+      internalID: -4712123418784402583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 15
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd665865f33f17e90800000000000000
+      internalID: -7029570089988561188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 13
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d165bf0140a16d4b0800000000000000
+      internalID: -5416112897099344355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c60b193295fb480800000000000000
+      internalID: -8881281930848342933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_spear_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 13
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd21bc52ddedb770800000000000000
+      internalID: 8628313948865768944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run_spear_0: 6370909597156532176
+      run_spear_1: -2491737658733448061
+      run_spear_10: -2807723767952167254
+      run_spear_11: 4696505486559516180
+      run_spear_12: 7797712369293897034
+      run_spear_13: 4823951599005519672
+      run_spear_14: 4100310317107535466
+      run_spear_15: -42602810344717830
+      run_spear_16: 8456951563761998590
+      run_spear_17: 1440317224845647518
+      run_spear_18: -4528878544819946878
+      run_spear_19: 7160589721528064622
+      run_spear_2: -6019418785688599896
+      run_spear_20: -204372582446317901
+      run_spear_21: -7210061119211973741
+      run_spear_22: -5299753662164708759
+      run_spear_23: -7645849699390806823
+      run_spear_24: -2705814667335967022
+      run_spear_25: 989178044828593841
+      run_spear_26: -6986063885992244367
+      run_spear_27: 3822711840356311362
+      run_spear_28: 3946149388823066703
+      run_spear_29: 5237417256216030678
+      run_spear_3: 476494898407834205
+      run_spear_30: -7438784363764064734
+      run_spear_31: 6977802948945907152
+      run_spear_32: -4762528628381801031
+      run_spear_33: 5443768226838488957
+      run_spear_34: 8929943219485167779
+      run_spear_35: -6589053795298018625
+      run_spear_36: 8373460605255104221
+      run_spear_37: -5309821662997943537
+      run_spear_38: 3307454041982732357
+      run_spear_39: -3106935452618687757
+      run_spear_4: -8420176095702355430
+      run_spear_40: 912838287484530457
+      run_spear_41: -2704349512876167938
+      run_spear_42: 6696323719451595088
+      run_spear_43: -4712123418784402583
+      run_spear_44: -7029570089988561188
+      run_spear_45: -5416112897099344355
+      run_spear_46: -8881281930848342933
+      run_spear_47: 8628313948865768944
+      run_spear_5: 299340839332254784
+      run_spear_6: 1842906655280809006
+      run_spear_7: 1346171082221336090
+      run_spear_8: -7200769070052827601
+      run_spear_9: 3819119454956368009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

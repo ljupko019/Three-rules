@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: bee5a6f0a339eb7488ec8905676f3cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7324300461272825745
+    second: Walk_while_Shooting_0
+  - first:
+      213: 3557193830237263632
+    second: Walk_while_Shooting_1
+  - first:
+      213: 3570385734874505409
+    second: Walk_while_Shooting_2
+  - first:
+      213: -8607911509152027389
+    second: Walk_while_Shooting_3
+  - first:
+      213: -1702331323554854827
+    second: Walk_while_Shooting_4
+  - first:
+      213: -6175129715938520264
+    second: Walk_while_Shooting_5
+  - first:
+      213: 2391058984435946951
+    second: Walk_while_Shooting_6
+  - first:
+      213: -4254498335298016263
+    second: Walk_while_Shooting_7
+  - first:
+      213: 5227694371763051574
+    second: Walk_while_Shooting_8
+  - first:
+      213: 8220637953409575066
+    second: Walk_while_Shooting_9
+  - first:
+      213: 5325298812343730369
+    second: Walk_while_Shooting_10
+  - first:
+      213: -4190478469980255749
+    second: Walk_while_Shooting_11
+  - first:
+      213: -8289687526609739392
+    second: Walk_while_Shooting_12
+  - first:
+      213: 8538578523010479707
+    second: Walk_while_Shooting_13
+  - first:
+      213: 4576848504775010032
+    second: Walk_while_Shooting_14
+  - first:
+      213: 5396187438520153578
+    second: Walk_while_Shooting_15
+  - first:
+      213: -202079432326090131
+    second: Walk_while_Shooting_16
+  - first:
+      213: -4241128242712421377
+    second: Walk_while_Shooting_17
+  - first:
+      213: 4072164896908103530
+    second: Walk_while_Shooting_18
+  - first:
+      213: 5068460756013766988
+    second: Walk_while_Shooting_19
+  - first:
+      213: -1773932968997367970
+    second: Walk_while_Shooting_20
+  - first:
+      213: -8584133996558639979
+    second: Walk_while_Shooting_21
+  - first:
+      213: -7661500392146384738
+    second: Walk_while_Shooting_22
+  - first:
+      213: 8197565224459268822
+    second: Walk_while_Shooting_23
+  - first:
+      213: -8467150171491069961
+    second: Walk_while_Shooting_24
+  - first:
+      213: -6059980815924511304
+    second: Walk_while_Shooting_25
+  - first:
+      213: -2213297964557512185
+    second: Walk_while_Shooting_26
+  - first:
+      213: -4250857863430836820
+    second: Walk_while_Shooting_27
+  - first:
+      213: 7284470772783981381
+    second: Walk_while_Shooting_28
+  - first:
+      213: 6125927277293453742
+    second: Walk_while_Shooting_29
+  - first:
+      213: 3225795126687044379
+    second: Walk_while_Shooting_30
+  - first:
+      213: 2997360356813908158
+    second: Walk_while_Shooting_31
+  - first:
+      213: -6027479798560237429
+    second: Walk_while_Shooting_32
+  - first:
+      213: 8504001463451497604
+    second: Walk_while_Shooting_33
+  - first:
+      213: 8020211582730251588
+    second: Walk_while_Shooting_34
+  - first:
+      213: 2967657250046476236
+    second: Walk_while_Shooting_35
+  - first:
+      213: 2198260484251556217
+    second: Walk_while_Shooting_36
+  - first:
+      213: 7906991250498481348
+    second: Walk_while_Shooting_37
+  - first:
+      213: -6793661432490251401
+    second: Walk_while_Shooting_38
+  - first:
+      213: -7020309548954449002
+    second: Walk_while_Shooting_39
+  - first:
+      213: -1005244353651819882
+    second: Walk_while_Shooting_40
+  - first:
+      213: -4899695423669835750
+    second: Walk_while_Shooting_41
+  - first:
+      213: -8230247585798173128
+    second: Walk_while_Shooting_42
+  - first:
+      213: 3686008677802095917
+    second: Walk_while_Shooting_43
+  - first:
+      213: 3444529349429542837
+    second: Walk_while_Shooting_44
+  - first:
+      213: -4560353880136892372
+    second: Walk_while_Shooting_45
+  - first:
+      213: -2504798497972562156
+    second: Walk_while_Shooting_46
+  - first:
+      213: -8988127769647679136
+    second: Walk_while_Shooting_47
+  - first:
+      213: -5403305781705669470
+    second: Walk_while_Shooting_48
+  - first:
+      213: -2621976055192051993
+    second: Walk_while_Shooting_49
+  - first:
+      213: -27071384311461015
+    second: Walk_while_Shooting_50
+  - first:
+      213: -3793424774045353224
+    second: Walk_while_Shooting_51
+  - first:
+      213: 7369128196276526588
+    second: Walk_while_Shooting_52
+  - first:
+      213: 7239208489380107728
+    second: Walk_while_Shooting_53
+  - first:
+      213: -8995018872273912796
+    second: Walk_while_Shooting_54
+  - first:
+      213: 2592468204175924817
+    second: Walk_while_Shooting_55
+  - first:
+      213: 1592664245945203993
+    second: Walk_while_Shooting_56
+  - first:
+      213: 5664662750533353163
+    second: Walk_while_Shooting_57
+  - first:
+      213: -8575989205114198257
+    second: Walk_while_Shooting_58
+  - first:
+      213: 7765753432505758937
+    second: Walk_while_Shooting_59
+  - first:
+      213: 1057994685201721733
+    second: Walk_while_Shooting_60
+  - first:
+      213: -2694135750034200571
+    second: Walk_while_Shooting_61
+  - first:
+      213: -8980089381379516683
+    second: Walk_while_Shooting_62
+  - first:
+      213: -3447354809658785517
+    second: Walk_while_Shooting_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_while_Shooting_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 462
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f7566b67425a560800000000000000
+      internalID: 7324300461272825745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 467
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d08811f0bd5130800000000000000
+      internalID: 3557193830237263632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 461
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0215eb8ee8c8130800000000000000
+      internalID: 3570385734874505409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2ffec61e8a8880800000000000000
+      internalID: -8607911509152027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 462
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580e793eaa1068e0800000000000000
+      internalID: -1702331323554854827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 467
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83396879d388d4aa0800000000000000
+      internalID: -6175129715938520264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 461
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59f4c5a7fbe2120800000000000000
+      internalID: 2391058984435946951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 468
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb221b2e4cf4f4c0800000000000000
+      internalID: -4254498335298016263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cde3765508c8840800000000000000
+      internalID: 5227694371763051574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 404
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a986210f9a2951270800000000000000
+      internalID: 8220637953409575066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 405
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ce802e0347e940800000000000000
+      internalID: 5325298812343730369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 405
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf987ed980e68d5c0800000000000000
+      internalID: -4190478469980255749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 404
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a07d7d1d15fc80800000000000000
+      internalID: -8289687526609739392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 403
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b1d66def1f7670800000000000000
+      internalID: 8538578523010479707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 403
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f664e5477b348f30800000000000000
+      internalID: 4576848504775010032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 403
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae53b6692eb13ea40800000000000000
+      internalID: 5396187438520153578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 339
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d627ac3b3d1123df0800000000000000
+      internalID: -202079432326090131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 340
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdf3e655c7425c0800000000000000
+      internalID: -4241128242712421377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 340
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc503066c338830800000000000000
+      internalID: 4072164896908103530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 340
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c495538243ac65640800000000000000
+      internalID: 5068460756013766988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 340
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fce870d59b167e0800000000000000
+      internalID: -1773932968997367970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 339
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c94ce5c970fd880800000000000000
+      internalID: -8584133996558639979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 339
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9849975cf1eca590800000000000000
+      internalID: -7661500392146384738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 339
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27dfa932a93c170800000000000000
+      internalID: 8197565224459268822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 275
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0368a7c3ae7a80800000000000000
+      internalID: -8467150171491069961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd33291e8f96eba0800000000000000
+      internalID: -6059980815924511304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 275
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70254705a39c841e0800000000000000
+      internalID: -2213297964557512185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad67839b4be105c0800000000000000
+      internalID: -4250857863430836820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 275
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5432184b293a71560800000000000000
+      internalID: 7284470772783981381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 275
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c3f2f66aa30550800000000000000
+      internalID: 6125927277293453742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 275
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b131e54a39354cc20800000000000000
+      internalID: 3225795126687044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 277
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82bb32d53c89920800000000000000
+      internalID: 2997360356813908158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8859f3ee071a5ca0800000000000000
+      internalID: -6027479798560237429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 213
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484bd6e5648440670800000000000000
+      internalID: 8504001463451497604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 212
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d2c1c01f38d4f60800000000000000
+      internalID: 8020211582730251588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 212
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff12cab8c3f2920800000000000000
+      internalID: 2967657250046476236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799797734ac18e10800000000000000
+      internalID: 2198260484251556217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc651836a64bbd60800000000000000
+      internalID: 7906991250498481348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 211
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba528ebe018b1a0800000000000000
+      internalID: -6793661432490251401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b894119a9d29e90800000000000000
+      internalID: -7020309548954449002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69abd1c1697ac02f0800000000000000
+      internalID: -1005244353651819882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a186d8cc8f8c00cb0800000000000000
+      internalID: -4899695423669835750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 149
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ecbfa2d6948cd80800000000000000
+      internalID: -8230247585798173128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b667fc55572330800000000000000
+      internalID: 3686008677802095917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb723813d6dcf20800000000000000
+      internalID: 3444529349429542837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20cd5cce4e56b0c0800000000000000
+      internalID: -4560353880136892372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417d96e790b2d3dd0800000000000000
+      internalID: -2504798497972562156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 147
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06973562a61c34380800000000000000
+      internalID: -8988127769647679136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a48e9cf40a9305b0800000000000000
+      internalID: -5403305781705669470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee92bc6baedc9bd0800000000000000
+      internalID: -2621976055192051993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b898a28b2df9ff0800000000000000
+      internalID: -27071384311461015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3cd4344c0b5bc0800000000000000
+      internalID: -3793424774045353224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 84
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd906b1d07644660800000000000000
+      internalID: 7369128196276526588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d55e7024c5d67460800000000000000
+      internalID: 7239208489380107728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 83
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cbd2a4ef54b2380800000000000000
+      internalID: -8995018872273912796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e9661a81c4af320800000000000000
+      internalID: 2592468204175924817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d770281b74a1610800000000000000
+      internalID: 1592664245945203993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7de942ccec9e40800000000000000
+      internalID: 5664662750533353163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0765976147fbf880800000000000000
+      internalID: -8575989205114198257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 21
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b6c52a9f75cb60800000000000000
+      internalID: 7765753432505758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58923b98f80ceae00800000000000000
+      internalID: 1057994685201721733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 19
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e78a3fc18c9ad0800000000000000
+      internalID: -2694135750034200571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 19
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6dd934940506380800000000000000
+      internalID: -8980089381379516683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_Shooting_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311cd83c0198820d0800000000000000
+      internalID: -3447354809658785517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

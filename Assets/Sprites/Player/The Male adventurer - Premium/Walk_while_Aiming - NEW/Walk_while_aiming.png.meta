@@ -1,0 +1,1743 @@
+fileFormatVersion: 2
+guid: de68984df9b25554886e617cbf3b730c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5953269810990934610
+    second: Walk_while_aiming_0
+  - first:
+      213: 8316033484026418235
+    second: Walk_while_aiming_1
+  - first:
+      213: -8433422787666813413
+    second: Walk_while_aiming_2
+  - first:
+      213: -3035447099208401148
+    second: Walk_while_aiming_3
+  - first:
+      213: 4444873319448757744
+    second: Walk_while_aiming_4
+  - first:
+      213: 5213491972345494889
+    second: Walk_while_aiming_5
+  - first:
+      213: 1632807417655131604
+    second: Walk_while_aiming_6
+  - first:
+      213: 2639762259655308108
+    second: Walk_while_aiming_7
+  - first:
+      213: 4177630363426005832
+    second: Walk_while_aiming_8
+  - first:
+      213: -6931078396519814915
+    second: Walk_while_aiming_9
+  - first:
+      213: -6114471813090282117
+    second: Walk_while_aiming_10
+  - first:
+      213: -5674326363620315565
+    second: Walk_while_aiming_11
+  - first:
+      213: -5924070290146834118
+    second: Walk_while_aiming_12
+  - first:
+      213: -7287600417320500908
+    second: Walk_while_aiming_13
+  - first:
+      213: 5438032146932862968
+    second: Walk_while_aiming_14
+  - first:
+      213: -8364420483062409933
+    second: Walk_while_aiming_15
+  - first:
+      213: 1497014883708039849
+    second: Walk_while_aiming_16
+  - first:
+      213: -31050135637976903
+    second: Walk_while_aiming_17
+  - first:
+      213: -8435033120106447296
+    second: Walk_while_aiming_18
+  - first:
+      213: -2820986523715987794
+    second: Walk_while_aiming_19
+  - first:
+      213: -3532232845694843521
+    second: Walk_while_aiming_20
+  - first:
+      213: 1680089704559210446
+    second: Walk_while_aiming_21
+  - first:
+      213: 1310877545698694972
+    second: Walk_while_aiming_22
+  - first:
+      213: 572565565464653035
+    second: Walk_while_aiming_23
+  - first:
+      213: -6126457805836779325
+    second: Walk_while_aiming_24
+  - first:
+      213: -8615459081973226538
+    second: Walk_while_aiming_25
+  - first:
+      213: 97468640293510004
+    second: Walk_while_aiming_26
+  - first:
+      213: -1118993624516119974
+    second: Walk_while_aiming_27
+  - first:
+      213: 6354860789748357770
+    second: Walk_while_aiming_28
+  - first:
+      213: -4591834700683544213
+    second: Walk_while_aiming_29
+  - first:
+      213: -1907959154806299183
+    second: Walk_while_aiming_30
+  - first:
+      213: 5777402994534286937
+    second: Walk_while_aiming_31
+  - first:
+      213: 6246604664749996226
+    second: Walk_while_aiming_32
+  - first:
+      213: -7751537022445271914
+    second: Walk_while_aiming_33
+  - first:
+      213: 8797491059309210747
+    second: Walk_while_aiming_34
+  - first:
+      213: -4264354758167790625
+    second: Walk_while_aiming_35
+  - first:
+      213: 6094832218678488438
+    second: Walk_while_aiming_36
+  - first:
+      213: 5616745235868977643
+    second: Walk_while_aiming_37
+  - first:
+      213: -4974262488433997782
+    second: Walk_while_aiming_38
+  - first:
+      213: -8146420143369344075
+    second: Walk_while_aiming_39
+  - first:
+      213: 1644537172740592828
+    second: Walk_while_aiming_40
+  - first:
+      213: -2820739245686733932
+    second: Walk_while_aiming_41
+  - first:
+      213: 884786287201660282
+    second: Walk_while_aiming_42
+  - first:
+      213: 2304582064895820175
+    second: Walk_while_aiming_43
+  - first:
+      213: 1301892290013123052
+    second: Walk_while_aiming_44
+  - first:
+      213: -9066735045108134668
+    second: Walk_while_aiming_45
+  - first:
+      213: 7717615988345073288
+    second: Walk_while_aiming_46
+  - first:
+      213: 3741307635218532270
+    second: Walk_while_aiming_47
+  - first:
+      213: -2427821506679197855
+    second: Walk_while_aiming_48
+  - first:
+      213: -6448407647959453020
+    second: Walk_while_aiming_49
+  - first:
+      213: -8454858216737459977
+    second: Walk_while_aiming_50
+  - first:
+      213: -8408277571122832178
+    second: Walk_while_aiming_51
+  - first:
+      213: 2438703399913610558
+    second: Walk_while_aiming_52
+  - first:
+      213: -8023099189315825341
+    second: Walk_while_aiming_53
+  - first:
+      213: 6374349584590701507
+    second: Walk_while_aiming_54
+  - first:
+      213: -4449518351226611695
+    second: Walk_while_aiming_55
+  - first:
+      213: 7894723008925267484
+    second: Walk_while_aiming_56
+  - first:
+      213: -639432121472740095
+    second: Walk_while_aiming_57
+  - first:
+      213: -4189543304009699955
+    second: Walk_while_aiming_58
+  - first:
+      213: 3145087095269318928
+    second: Walk_while_aiming_59
+  - first:
+      213: -5231827500485508333
+    second: Walk_while_aiming_60
+  - first:
+      213: 8546017248515951489
+    second: Walk_while_aiming_61
+  - first:
+      213: 6967594734944949894
+    second: Walk_while_aiming_62
+  - first:
+      213: 2986982447271356203
+    second: Walk_while_aiming_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_while_aiming_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 468
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aeb20f9534e9250800000000000000
+      internalID: 5953269810990934610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 467
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3416abb46c786370800000000000000
+      internalID: 8316033484026418235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 468
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e5f6428a676fa80800000000000000
+      internalID: -8433422787666813413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 469
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f713d12fcefd5d0800000000000000
+      internalID: -3035447099208401148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 468
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ca5debbc5fad30800000000000000
+      internalID: 4444873319448757744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 467
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df00b935b0a5840800000000000000
+      internalID: 5213491972345494889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 468
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddf4f302b5e8a610800000000000000
+      internalID: 1632807417655131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 469
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43bc320ac152a420800000000000000
+      internalID: 2639762259655308108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 404
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a4e67eace9f930800000000000000
+      internalID: 4177630363426005832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 404
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86d09bbecdfcf90800000000000000
+      internalID: -6931078396519814915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 405
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b757d972848052ba0800000000000000
+      internalID: -6114471813090282117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 405
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee6c47c3eb041b0800000000000000
+      internalID: -5674326363620315565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 404
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394a5b457979cda0800000000000000
+      internalID: -5924070290146834118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 403
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518f94280e3dda90800000000000000
+      internalID: -7287600417320500908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 403
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff861bfc65c77b40800000000000000
+      internalID: 5438032146932862968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 403
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335501323eb9beb80800000000000000
+      internalID: -8364420483062409933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 339
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f3eeea1776c410800000000000000
+      internalID: 1497014883708039849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 340
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8121fe010b19ff0800000000000000
+      internalID: -31050135637976903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e7667611eb0fa80800000000000000
+      internalID: -8435033120106447296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 340
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea69eb1f3b7d9d8d0800000000000000
+      internalID: -2820986523715987794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 340
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75446001fcfafec0800000000000000
+      internalID: -3532232845694843521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 339
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfea0f4fa0e05710800000000000000
+      internalID: 1680089704559210446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 339
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371867be2c213210800000000000000
+      internalID: 1310877545698694972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 339
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2424295922f700800000000000000
+      internalID: 572565565464653035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 275
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00eafb5137afaa0800000000000000
+      internalID: -6126457805836779325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 275
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a2129c9dbf6880800000000000000
+      internalID: -8615459081973226538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 275
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5f6146374a5100800000000000000
+      internalID: 97468640293510004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 277
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523ac82a398870f0800000000000000
+      internalID: -1118993624516119974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 275
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a52020830013850800000000000000
+      internalID: 6354860789748357770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 275
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69f1761ba68640c0800000000000000
+      internalID: -4591834700683544213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 275
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e0dbe1419585e0800000000000000
+      internalID: -1907959154806299183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 277
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568e7dd9657d2050800000000000000
+      internalID: 5777402994534286937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b8beb8d560b650800000000000000
+      internalID: 6246604664749996226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 213
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944cd1c5220d6490800000000000000
+      internalID: -7751537022445271914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cecc0e187f61a70800000000000000
+      internalID: 8797491059309210747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 212
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7923e0f7f1d4c0800000000000000
+      internalID: -4264354758167790625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67defef6c91359450800000000000000
+      internalID: 6094832218678488438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be986d18800b2fd40800000000000000
+      internalID: 5616745235868977643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28475d1f9ed7fab0800000000000000
+      internalID: -4974262488433997782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb226b8a0a12fe80800000000000000
+      internalID: -8146420143369344075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d02178d192d610800000000000000
+      internalID: 1644537172740592828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c6d8d998bad8d0800000000000000
+      internalID: -2820739245686733932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 149
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daaceb074674c00800000000000000
+      internalID: 884786287201660282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f810ad58d258bff10800000000000000
+      internalID: 2304582064895820175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15d0ad320411210800000000000000
+      internalID: 1301892290013123052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8ebb938c7c2280800000000000000
+      internalID: -9066735045108134668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eee2a0ada7a1b60800000000000000
+      internalID: 7717615988345073288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 147
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea748a0d87bcbe330800000000000000
+      internalID: 3741307635218532270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f255ce335ae4ed0800000000000000
+      internalID: -2427821506679197855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f678c867a286a0800000000000000
+      internalID: -6448407647959453020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f032156f3f4aaa80800000000000000
+      internalID: -8454858216737459977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd658191ccf4b80800000000000000
+      internalID: -8408277571122832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 84
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d536842d308d120800000000000000
+      internalID: 2438703399913610558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411b17abc938a090800000000000000
+      internalID: -8023099189315825341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 83
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c300b7ac2d367850800000000000000
+      internalID: 6374349584590701507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1185e8552a22042c0800000000000000
+      internalID: -4449518351226611695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f713afb0bf8d60800000000000000
+      internalID: 7894723008925267484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10594a59fd74027f0800000000000000
+      internalID: -639432121472740095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 21
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8da269ef80cbd5c0800000000000000
+      internalID: -4189543304009699955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_59
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011613dbc0895ab20800000000000000
+      internalID: 3145087095269318928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31301739b90d467b0800000000000000
+      internalID: -5231827500485508333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 19
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8726a86d899670800000000000000
+      internalID: 8546017248515951489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 19
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686964bde7ed1b060800000000000000
+      internalID: 6967594734944949894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_while_aiming_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 19
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27afe7c5b4e37920800000000000000
+      internalID: 2986982447271356203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
