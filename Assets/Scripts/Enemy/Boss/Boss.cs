@@ -1,9 +1,10 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Boss : MonoBehaviour
 {
-    [SerializeField] int HP = 3;
+    [SerializeField] float health = 300;
 
     [SerializeField] GameObject bullet;
     private GameObject player;
@@ -17,12 +18,13 @@ public class Boss : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (HP <= 0)
+        if (health <= 0)
         {
+            SceneManager.LoadScene(5);
             Destroy(this.gameObject);
         }
 
-        if (HP < 50) 
+        if (health < 50) 
         {
             coolDown = 2;
         }
@@ -32,7 +34,7 @@ public class Boss : MonoBehaviour
     {
         if (collision.gameObject.tag == "BulletPlayer")
         {
-            HP -= 1;
+            health-= collision.gameObject.GetComponent<PlayerController>().GetDamage();
             Debug.Log("Hit !!");
         }
 

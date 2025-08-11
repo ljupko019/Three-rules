@@ -441,7 +441,17 @@ public class PlayerController : MonoBehaviour, IDamageable
         animator.SetFloat("AnimAttackDirY", direction.y);
     }
 
-
+    public float GetDamage() 
+    {
+        if (isSpear)
+        {
+            return damageSpear;
+        }
+        else 
+        {
+            return damageGun;
+        }
+    }
     private Vector3 GetMousePostion()
     {
         Vector3 vector = Camera.main.ScreenToWorldPoint(Input.mousePosition);
