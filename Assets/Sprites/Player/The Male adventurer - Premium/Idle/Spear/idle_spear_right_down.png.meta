@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      idle_spear_right_down_0: -5076815086294342504
+      idle_spear_right_down_1: 8834577067081779684
+      idle_spear_right_down_2: 7788097846613082399
+      idle_spear_right_down_3: -418122990475058887
+      idle_spear_right_down_4: 6232009393658345513
+      idle_spear_right_down_5: -5860619466795088689
+      idle_spear_right_down_6: 6649079842931335804
+      idle_spear_right_down_7: 6151039887441098419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -178,7 +178,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -192,7 +192,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -216,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idle_Gun_0: -511260840789997383
+      Idle_Gun_1: -6144820656127267175
+      Idle_Gun_10: -1761948616120250930
+      Idle_Gun_11: -5611918491974753315
+      Idle_Gun_12: -3652759628234288931
+      Idle_Gun_13: -3057272549436729673
+      Idle_Gun_14: 7646079755580050106
+      Idle_Gun_15: 716391450245658649
+      Idle_Gun_16: -8754661971821320225
+      Idle_Gun_17: -924535089591180389
+      Idle_Gun_18: -5003109551960907267
+      Idle_Gun_19: -5290754446901287964
+      Idle_Gun_2: -3742245458284688843
+      Idle_Gun_20: 148031773389066902
+      Idle_Gun_21: 5994039084672067916
+      Idle_Gun_22: 1479726949035650672
+      Idle_Gun_23: 1928284073343597501
+      Idle_Gun_24: -8266217421594065958
+      Idle_Gun_25: 4178578489583612748
+      Idle_Gun_26: -7257242177668846377
+      Idle_Gun_27: -6981615439491714786
+      Idle_Gun_28: -8804378007597732016
+      Idle_Gun_29: -4462457609318531998
+      Idle_Gun_3: -3839826256668049634
+      Idle_Gun_30: 2692082121904819607
+      Idle_Gun_31: -927756936527320441
+      Idle_Gun_32: 8252105576547346422
+      Idle_Gun_33: 6336216089140928188
+      Idle_Gun_34: -7459647986293965543
+      Idle_Gun_35: -5307081132902020275
+      Idle_Gun_36: -7665186702217940133
+      Idle_Gun_37: 2965047212346342688
+      Idle_Gun_38: 608332530946838757
+      Idle_Gun_39: 7724078019724435919
+      Idle_Gun_4: -5125421100294148012
+      Idle_Gun_40: 8071930746085335034
+      Idle_Gun_41: 7342023281085867511
+      Idle_Gun_42: -3461715643842255447
+      Idle_Gun_43: 7471650524793524571
+      Idle_Gun_44: -7189852613339718339
+      Idle_Gun_45: -4425641738896154982
+      Idle_Gun_46: 1212457522312113003
+      Idle_Gun_47: -4305395017194171115
+      Idle_Gun_5: -3395086049706529912
+      Idle_Gun_6: 6074343084787624793
+      Idle_Gun_7: 1671166826119699256
+      Idle_Gun_8: 7938946599424748357
+      Idle_Gun_9: 7541167293977624299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

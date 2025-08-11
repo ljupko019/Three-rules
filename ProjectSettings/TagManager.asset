@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Scene Loader
+  - Start position
   layers:
   - Default
   - TransparentFX
@@ -13,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Node
-  - 
-  - 
+  - Enemy
+  - EnemyBullet
   - 
   - 
   - 

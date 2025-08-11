@@ -1735,7 +1735,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      attack_spear_0: -8316871658284278787
+      attack_spear_1: 1429827007119380988
+      attack_spear_10: -2759443396706397208
+      attack_spear_11: -6546338856027674146
+      attack_spear_12: -2923269485859071304
+      attack_spear_13: 1771399341105502133
+      attack_spear_14: 4885836585653558325
+      attack_spear_15: 66439081466270649
+      attack_spear_16: -5890794719258580630
+      attack_spear_17: -976908389985792147
+      attack_spear_18: -5690656070911914791
+      attack_spear_19: -638357017394938739
+      attack_spear_2: -1712156176047281713
+      attack_spear_20: -5947911815852647269
+      attack_spear_21: 1973834827150255814
+      attack_spear_22: 6202176852018400295
+      attack_spear_23: 3186984141585545610
+      attack_spear_24: -4849216519483656432
+      attack_spear_25: -1862358283724542287
+      attack_spear_26: -7594983596210305591
+      attack_spear_27: -1012502877229587503
+      attack_spear_28: -2683650324324531189
+      attack_spear_29: 1495746652540586165
+      attack_spear_3: -4195558458173068359
+      attack_spear_30: -4449176806284649822
+      attack_spear_31: -2307570214790153453
+      attack_spear_32: -968844599112657469
+      attack_spear_33: -1264227356980901523
+      attack_spear_34: 7800420655486438293
+      attack_spear_35: -6721150331270047880
+      attack_spear_36: 6979692022940405354
+      attack_spear_37: -4765957638885282775
+      attack_spear_38: 7795612941259836807
+      attack_spear_39: 6080042203864812422
+      attack_spear_4: -6694117652626995490
+      attack_spear_40: -8993529519400872891
+      attack_spear_41: -4060554168934582412
+      attack_spear_42: 761236363774962541
+      attack_spear_43: 8312521520806901916
+      attack_spear_44: 8963227605372195572
+      attack_spear_45: 671234617089061689
+      attack_spear_46: 709640257151157614
+      attack_spear_47: -3825498624608039301
+      attack_spear_48: -8239834932755164922
+      attack_spear_49: -6755833159824169544
+      attack_spear_5: 6008154869621154561
+      attack_spear_50: 4095028298018595959
+      attack_spear_51: -7151636745089898008
+      attack_spear_52: 8940002479460494441
+      attack_spear_53: 2605792180043039661
+      attack_spear_54: -3724616315918584095
+      attack_spear_55: 4621610401285683383
+      attack_spear_56: -5369425956165561670
+      attack_spear_57: -6754910072413336639
+      attack_spear_58: 6564790207166653870
+      attack_spear_59: 26568857995485498
+      attack_spear_6: 5871058683812251123
+      attack_spear_60: 7186701462624505225
+      attack_spear_61: -4471683028042271436
+      attack_spear_62: 1390738899917314103
+      attack_spear_63: 5987248130891519325
+      attack_spear_7: -784767871250157352
+      attack_spear_8: -3861932140729632612
+      attack_spear_9: 2259705330303345496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

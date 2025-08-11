@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk_spear_left_up_0: 8844449961925532097
+      walk_spear_left_up_1: -2006668123614796205
+      walk_spear_left_up_2: -2949402252638712696
+      walk_spear_left_up_3: 3407144536540662677
+      walk_spear_left_up_4: 8660338005920491035
+      walk_spear_left_up_5: 7537105693225239811
+      walk_spear_left_up_6: 8588775543203896886
+      walk_spear_left_up_7: 7584560845888663423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

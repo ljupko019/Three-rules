@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 8937735e75faacd4e9d6c2e80fa73798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1299373089072272211
+    second: eyeball_left_0
+  - first:
+      213: -8313296877358795560
+    second: eyeball_left_1
+  - first:
+      213: -6272008706871507570
+    second: eyeball_left_2
+  - first:
+      213: -3384428627058262883
+    second: eyeball_left_3
+  - first:
+      213: -2651126842172636019
+    second: eyeball_left_4
+  - first:
+      213: 6177596796525055865
+    second: eyeball_left_5
+  - first:
+      213: 4137404855474188958
+    second: eyeball_left_6
+  - first:
+      213: -823246158268008252
+    second: eyeball_left_7
+  - first:
+      213: -2871785543523149015
+    second: eyeball_left_8
+  - first:
+      213: 3076838668625282203
+    second: eyeball_left_9
+  - first:
+      213: 4965690915277186668
+    second: eyeball_left_10
+  - first:
+      213: -3165111742669267455
+    second: eyeball_left_11
+  - first:
+      213: -4240379620035508453
+    second: eyeball_left_12
+  - first:
+      213: 3728087686262242014
+    second: eyeball_left_13
+  - first:
+      213: -1149145051276711143
+    second: eyeball_left_14
+  - first:
+      213: -3599114751450992998
+    second: eyeball_left_15
+  - first:
+      213: 5544809592444416070
+    second: eyeball_left_16
+  - first:
+      213: -9053917544306893561
+    second: eyeball_left_17
+  - first:
+      213: -9073073985741074040
+    second: eyeball_left_18
+  - first:
+      213: 1983310449759732095
+    second: eyeball_left_19
+  - first:
+      213: 2168054053959950458
+    second: eyeball_left_20
+  - first:
+      213: 5079669029991664006
+    second: eyeball_left_21
+  - first:
+      213: 1053106372831223282
+    second: eyeball_left_22
+  - first:
+      213: -2949376095098101800
+    second: eyeball_left_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyeball_left_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353dadca0fc480210800000000000000
+      internalID: 1299373089072272211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43aa8298c31ac80800000000000000
+      internalID: -8313296877358795560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8544c6cf4955f8a0800000000000000
+      internalID: -6272008706871507570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c778c58181801d0800000000000000
+      internalID: -3384428627058262883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d840ccdee2e453bd0800000000000000
+      internalID: -2651126842172636019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f877e5e8b3bb550800000000000000
+      internalID: 6177596796525055865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92f38e8bc30b6930800000000000000
+      internalID: 4137404855474188958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 69
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8fab51bfd3394f0800000000000000
+      internalID: -823246158268008252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b5337734e5528d0800000000000000
+      internalID: -2871785543523149015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b948892a77023ba20800000000000000
+      internalID: 3076838668625282203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 43
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c662b7df39da9e440800000000000000
+      internalID: 4965690915277186668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed7c7b3a34314d0800000000000000
+      internalID: -3165111742669267455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b174afab3352725c0800000000000000
+      internalID: -4240379620035508453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda3b279ff3dcb330800000000000000
+      internalID: 3728087686262242014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be04f0aaa6d00f0800000000000000
+      internalID: -1149145051276711143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e25e5d3306d0ec0800000000000000
+      internalID: -3599114751450992998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640f3d852fe13fc40800000000000000
+      internalID: 5544809592444416070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d19e196f50a5280800000000000000
+      internalID: -9053917544306893561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d01bf747f51280800000000000000
+      internalID: -9073073985741074040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71cf359852268b10800000000000000
+      internalID: 1983310449759732095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e02cdca9761e10800000000000000
+      internalID: 2168054053959950458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689c43dc11c9e7640800000000000000
+      internalID: 5079669029991664006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd1e4f9aa26d9e00800000000000000
+      internalID: 1053106372831223282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeball_left_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df16a66116b117d0800000000000000
+      internalID: -2949376095098101800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eyeball_left_0: 1299373089072272211
+      eyeball_left_1: -8313296877358795560
+      eyeball_left_10: 4965690915277186668
+      eyeball_left_11: -3165111742669267455
+      eyeball_left_12: -4240379620035508453
+      eyeball_left_13: 3728087686262242014
+      eyeball_left_14: -1149145051276711143
+      eyeball_left_15: -3599114751450992998
+      eyeball_left_16: 5544809592444416070
+      eyeball_left_17: -9053917544306893561
+      eyeball_left_18: -9073073985741074040
+      eyeball_left_19: 1983310449759732095
+      eyeball_left_2: -6272008706871507570
+      eyeball_left_20: 2168054053959950458
+      eyeball_left_21: 5079669029991664006
+      eyeball_left_22: 1053106372831223282
+      eyeball_left_23: -2949376095098101800
+      eyeball_left_3: -3384428627058262883
+      eyeball_left_4: -2651126842172636019
+      eyeball_left_5: 6177596796525055865
+      eyeball_left_6: 4137404855474188958
+      eyeball_left_7: -823246158268008252
+      eyeball_left_8: -2871785543523149015
+      eyeball_left_9: 3076838668625282203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

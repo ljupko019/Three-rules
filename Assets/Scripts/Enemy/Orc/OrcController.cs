@@ -9,11 +9,12 @@ public class OrcController : MonoBehaviour, IDamageable
         Idle,
         Chasing,
         Attacking,
+        Hurt,
         Death,
     }
 
 
-    public OrcData enemyData;
+    public EnemyData enemyData;
 
     private float health;
     private float damage;
@@ -106,6 +107,9 @@ public class OrcController : MonoBehaviour, IDamageable
                     }
                 }
                 break;
+
+            case EnemyState.Hurt:
+                break;
         }
     }
 
@@ -131,6 +135,8 @@ public class OrcController : MonoBehaviour, IDamageable
 
     private void MoveAlongPath()
     {
+        if (currentState == EnemyState.Hurt) return; // ne pomera se dok je hurt
+
         if (path == null || currentPathIndex >= path.Count) return;
 
         Vector3 targetPos = path[currentPathIndex];
@@ -200,9 +206,12 @@ public class OrcController : MonoBehaviour, IDamageable
         Debug.Log($"Orc took {amount} damage, health left: {health}");
 
         HurtAnim();
-
+        ChangeState(EnemyState.Hurt);
+      
         if (health <= 0)
             Die();
+
+        StartCoroutine(RecoverFromHurt());
     }
 
 
@@ -271,7 +280,12 @@ public class OrcController : MonoBehaviour, IDamageable
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!attackHitbox.enabled) return;
+        if (!attackHitbox.enabled) 
+        {
+            Debug.Log("aaaa");
+            return;
+        }
+        
 
         if (collision.CompareTag("Player") && !hasDealtDamageThisAttack)
         {
@@ -283,8 +297,14 @@ public class OrcController : MonoBehaviour, IDamageable
 
     private IEnumerator ResetAttackCooldown()
     {
-        Debug.Log("bbbbbb");
         yield return new WaitForSeconds(attackCooldown);
         canAttack = true;
+    }
+
+    private IEnumerator RecoverFromHurt()
+    {
+        yield return new WaitForSeconds(0.4f);
+        if (currentState == EnemyState.Hurt && health > 0)
+            ChangeState(EnemyState.Chasing);
     }
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CameraMain : MonoBehaviour
 {
-    [SerializeField] private Transform player;
+    [SerializeField] private GameObject player;
 
     // Definiši granice mape kao world coordinates
     [SerializeField] private Vector2 mapMin = new Vector2(-5, -4);
@@ -16,6 +16,7 @@ public class CameraMain : MonoBehaviour
         Camera cam = Camera.main;
         halfCameraHeight = cam.orthographicSize;
         halfCameraWidth = halfCameraHeight * cam.aspect;
+        player = GameObject.FindGameObjectWithTag("Player");
     }
 
     void LateUpdate()
@@ -39,8 +40,8 @@ public class CameraMain : MonoBehaviour
             minY = maxY = (mapMin.y + mapMax.y) / 2f;
         }
 
-        float camX = Mathf.Clamp(player.position.x, minX, maxX);
-        float camY = Mathf.Clamp(player.position.y, minY, maxY);
+        float camX = Mathf.Clamp(player.transform.position.x, minX, maxX);
+        float camY = Mathf.Clamp(player.transform.position.y, minY, maxY);
 
         transform.position = new Vector3(camX, camY, transform.position.z);
     }

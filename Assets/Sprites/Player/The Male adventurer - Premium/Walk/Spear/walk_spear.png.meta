@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk_spear_0: 1870801391363407149
+      walk_spear_1: 3859208135949050257
+      walk_spear_10: -5958601133001426160
+      walk_spear_11: 5845266425731135456
+      walk_spear_12: 1206250424209285805
+      walk_spear_13: -3683315797088479809
+      walk_spear_14: -6460523355311142773
+      walk_spear_15: 158188697733874819
+      walk_spear_16: 5344367022361572058
+      walk_spear_17: 7043387799526602979
+      walk_spear_18: -7222260968402804428
+      walk_spear_19: 8914461064943520008
+      walk_spear_2: 5497208925611223447
+      walk_spear_20: -3722050043127909558
+      walk_spear_21: -1174128971942627114
+      walk_spear_22: -655044594293842075
+      walk_spear_23: -1602847348564172208
+      walk_spear_24: 2179632475781825202
+      walk_spear_25: -3899701289636741857
+      walk_spear_26: 7940834482238931746
+      walk_spear_27: 2926922580383780885
+      walk_spear_28: -2650376963521937738
+      walk_spear_29: 8024252836139656568
+      walk_spear_3: 4867472164596372832
+      walk_spear_30: -8956335485928708655
+      walk_spear_31: 2352308207980571945
+      walk_spear_32: 5868425530678287510
+      walk_spear_33: 217305020113584866
+      walk_spear_34: -4985215571936248398
+      walk_spear_35: 6734446312400670220
+      walk_spear_36: -6397045747270524561
+      walk_spear_37: -5036413294045203175
+      walk_spear_38: -1385666898868828586
+      walk_spear_39: -3180654582176405097
+      walk_spear_4: 1294630133877263114
+      walk_spear_40: -6653934333448119910
+      walk_spear_41: -968198411684264432
+      walk_spear_42: 6514950485175063066
+      walk_spear_43: -609163935582515124
+      walk_spear_44: -1086972322143007846
+      walk_spear_45: 9047893820175579327
+      walk_spear_46: -7424360920392961365
+      walk_spear_47: 8581459787958304315
+      walk_spear_5: -5522894295558536352
+      walk_spear_6: -1422944033854710902
+      walk_spear_7: -5194796447944410272
+      walk_spear_8: 7865004969910106495
+      walk_spear_9: -5072542854234910832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

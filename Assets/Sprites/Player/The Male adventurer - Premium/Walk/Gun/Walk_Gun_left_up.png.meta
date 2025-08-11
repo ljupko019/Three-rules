@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walk_Gun_left_up_0: 3559200789346327137
+      Walk_Gun_left_up_1: 6638257267320034671
+      Walk_Gun_left_up_2: 5832107742549482250
+      Walk_Gun_left_up_3: -594805179756969917
+      Walk_Gun_left_up_4: -2355246161624513876
+      Walk_Gun_left_up_5: -2655754897274712558
+      Walk_Gun_left_up_6: 5321762506093099824
+      Walk_Gun_left_up_7: 7114094957946097203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

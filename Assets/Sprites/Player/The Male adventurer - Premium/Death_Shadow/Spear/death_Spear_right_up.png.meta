@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_Spear_right_up_0: -5369881418210479065
+      death_Spear_right_up_1: -2591456605331512027
+      death_Spear_right_up_2: -6782043908354435296
+      death_Spear_right_up_3: 4672119070925062287
+      death_Spear_right_up_4: -3257615430789627043
+      death_Spear_right_up_5: 8935418048280121870
+      death_Spear_right_up_6: 320253771124376266
+      death_Spear_right_up_7: -3584761066257668770
+      death_Spear_right_up_8: -4005376955006635557
+      death_Spear_right_up_9: -4760413632985859717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

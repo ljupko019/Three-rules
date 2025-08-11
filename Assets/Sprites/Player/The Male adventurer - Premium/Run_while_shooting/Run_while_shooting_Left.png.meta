@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Run_while_shooting_Left_0: 6300268355675694652
+      Run_while_shooting_Left_1: -6933394193521229433
+      Run_while_shooting_Left_2: 7098778313281741600
+      Run_while_shooting_Left_3: -7501920829171957860
+      Run_while_shooting_Left_4: 5846669471894537403
+      Run_while_shooting_Left_5: 4335326582318861045
+      Run_while_shooting_Left_6: -8679115518172094018
+      Run_while_shooting_Left_7: -2869618330959769218
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -5,31 +5,45 @@ public class EnemyManager : MonoBehaviour
 {
     public static EnemyManager Instance { get; private set; }
 
-    [SerializeField] private List<OrcController> allEnemies = new List<OrcController>();
-
+    [SerializeField] public List<IDamageable> allEnemies = new List<IDamageable>();
+    PlayerController player;
     private void Awake()
     {
         if (Instance == null)
             Instance = this;
         else
             Destroy(gameObject);
+
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
     }
 
-    public void RegisterEnemy(OrcController enemy)
+    private void Update()
+    {
+        Debug.Log(allEnemies.Count);   
+    }
+
+    public void RegisterEnemy(IDamageable enemy)
     {
         if (!allEnemies.Contains(enemy))
             allEnemies.Add(enemy);
     }
 
-    public void UnregisterEnemy(OrcController enemy)
+    public void UnregisterEnemy(IDamageable enemy)
     {
         if (allEnemies.Contains(enemy))
+        {
+            player.VampireHeal();
             allEnemies.Remove(enemy);
+        }
+        if (allEnemies.Count < 1) 
+        {
+            player.Win();
+        }
     }
 
-    public OrcController GetClosestEnemy(Vector3 position, float range)
+    public IDamageable GetClosestEnemy(Vector3 position, float range)
     {
-        OrcController closest = null;
+        IDamageable closest = null;
         float closestDist = float.MaxValue;
 
         foreach (var enemy in allEnemies)

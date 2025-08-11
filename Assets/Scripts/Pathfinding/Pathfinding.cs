@@ -1,9 +1,7 @@
-using Mono.Cecil;
 using System.Collections;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Runtime.CompilerServices;
 
 public class Pathfinding : MonoBehaviour { 
 
@@ -45,7 +43,6 @@ public class Pathfinding : MonoBehaviour {
                 if (collider != null)
                 {
                     node.SetIsWalkable(false);
-                    Debug.Log("x:" + x + "y:" + y);
                 }
                 else
                 {

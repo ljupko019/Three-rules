@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_spear_down_0: -5303450054045235456
+      death_spear_down_1: 8494522067836295287
+      death_spear_down_10: 2840363265992550272
+      death_spear_down_11: 7146340390477473508
+      death_spear_down_2: 6491844044460464748
+      death_spear_down_3: -6741002755689636076
+      death_spear_down_4: -3206844174223887755
+      death_spear_down_5: 5803511857712759279
+      death_spear_down_6: -4187416662492509604
+      death_spear_down_7: 5009536068703484923
+      death_spear_down_8: -7660232742572312214
+      death_spear_down_9: -2419658083859974320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

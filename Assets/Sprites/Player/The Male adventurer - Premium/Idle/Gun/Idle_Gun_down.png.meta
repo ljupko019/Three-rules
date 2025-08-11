@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idle_Gun_down_0: 2250194236519937308
+      Idle_Gun_down_1: -7158004537643238645
+      Idle_Gun_down_2: -272559488637617734
+      Idle_Gun_down_3: 4322595327987673963
+      Idle_Gun_down_4: -4402093977033803698
+      Idle_Gun_down_5: 8430698753120336952
+      Idle_Gun_down_6: 680789507360632713
+      Idle_Gun_down_7: 120854923283873173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3166501055e1c1a4ebe2114b66308a7f
+  - enabled: 1
     path: Assets/Scenes/Dungeon 1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Dungeon 2.unity
+    guid: ed6c473ce96addf4daffdf7ba925bc55
+  - enabled: 1
+    path: Assets/Scenes/Dungeon 3.unity
+    guid: 5d759a1fecc23d149bda91c9b48067c9
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 92ed18b0acc2ec4409da2c077db9fd70
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 9b4da7908820cbc4f86074ec7b405cab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

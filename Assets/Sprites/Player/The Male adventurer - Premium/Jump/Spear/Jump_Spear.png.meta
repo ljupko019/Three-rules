@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump_Spear_0: 8316408077870912101
+      Jump_Spear_1: -1522596790612724794
+      Jump_Spear_10: 6526146684583334910
+      Jump_Spear_11: -230325473602388196
+      Jump_Spear_12: 3218361425735099102
+      Jump_Spear_13: -7219518908907100380
+      Jump_Spear_14: 2889715789084486285
+      Jump_Spear_15: 612247686976562921
+      Jump_Spear_16: -591015928517909820
+      Jump_Spear_17: -7307533285645081074
+      Jump_Spear_18: 4757818693495950962
+      Jump_Spear_19: 8731842974611942185
+      Jump_Spear_2: 4749210646566287755
+      Jump_Spear_20: -6803812057097435203
+      Jump_Spear_21: -8798330623580321077
+      Jump_Spear_22: -2598519665118368936
+      Jump_Spear_23: 2784833502885921388
+      Jump_Spear_24: 2568462046485000329
+      Jump_Spear_25: -1113648875177863947
+      Jump_Spear_26: 3045256643746593111
+      Jump_Spear_27: -5853045239179789799
+      Jump_Spear_28: -6788065274392508872
+      Jump_Spear_29: 8547912868597356837
+      Jump_Spear_3: -5451037254225076265
+      Jump_Spear_30: -6085206905504309094
+      Jump_Spear_31: 8693804649057585328
+      Jump_Spear_32: -7390173092298841814
+      Jump_Spear_33: -2461262558261491842
+      Jump_Spear_34: -3701174519606444711
+      Jump_Spear_35: -6898101560241448474
+      Jump_Spear_36: 7309724061531497333
+      Jump_Spear_37: 8414874067190584111
+      Jump_Spear_38: -2499799705808848180
+      Jump_Spear_39: -4908507205570036410
+      Jump_Spear_4: -7580793270576612394
+      Jump_Spear_40: 8967520936024608024
+      Jump_Spear_41: -8485333506343531718
+      Jump_Spear_42: -5555425728812528775
+      Jump_Spear_43: 623763400633993021
+      Jump_Spear_44: 8722567072958953993
+      Jump_Spear_45: 2769457641227069339
+      Jump_Spear_46: 2419338040090197369
+      Jump_Spear_47: -5966105009499199418
+      Jump_Spear_5: 1254021517623638530
+      Jump_Spear_6: 5826250450806270624
+      Jump_Spear_7: 1096042859120068012
+      Jump_Spear_8: -9044917914862513676
+      Jump_Spear_9: -6305668402632308131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

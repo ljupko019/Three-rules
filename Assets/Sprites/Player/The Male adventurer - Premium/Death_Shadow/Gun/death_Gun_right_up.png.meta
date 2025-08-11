@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,7 +102,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_Gun_right_up_0: -8156967712969592166
+      death_Gun_right_up_1: -1070827231764707905
+      death_Gun_right_up_2: 2294416006611628851
+      death_Gun_right_up_3: 4587917398402285832
+      death_Gun_right_up_4: -6080456331789395394
+      death_Gun_right_up_5: -7307929068686083385
+      death_Gun_right_up_6: 8050554341469539029
+      death_Gun_right_up_7: -6309832461739040427
+      death_Gun_right_up_8: 5565842593377177907
+      death_Gun_right_up_9: -4426263410231232766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

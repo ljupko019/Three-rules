@@ -1335,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      idle_spear_0: 2079966519905185877
+      idle_spear_1: 2096806397041303366
+      idle_spear_10: 7640824801044046724
+      idle_spear_11: 4000683122750778480
+      idle_spear_12: -5558687446496449892
+      idle_spear_13: -7346265688562130966
+      idle_spear_14: -3942625469878988402
+      idle_spear_15: 4737128937092083487
+      idle_spear_16: 2691418577976516300
+      idle_spear_17: -1132083138420604637
+      idle_spear_18: -78114199143893418
+      idle_spear_19: -4142755004131925329
+      idle_spear_2: -3991720844300055021
+      idle_spear_20: -3779410579907723594
+      idle_spear_21: 6410783858774814560
+      idle_spear_22: -4481055751874154019
+      idle_spear_23: 3972683531614000217
+      idle_spear_24: 6153528552377987750
+      idle_spear_25: 3542289720343503696
+      idle_spear_26: -3664306892699123776
+      idle_spear_27: -2232382540509943890
+      idle_spear_28: -4530545771919359370
+      idle_spear_29: 3206581555159224286
+      idle_spear_3: 6334341467266991413
+      idle_spear_30: -5934300113208951802
+      idle_spear_31: -4405499287878371146
+      idle_spear_32: 1883472467746428663
+      idle_spear_33: 3772557625937793827
+      idle_spear_34: 429433819415980379
+      idle_spear_35: 1764881933462035993
+      idle_spear_36: 3639244584600244343
+      idle_spear_37: 8976847001966974791
+      idle_spear_38: 7454201273078631516
+      idle_spear_39: 7773147576164380603
+      idle_spear_4: -6212987779552516482
+      idle_spear_40: -7644200703442620757
+      idle_spear_41: -7954760975143541895
+      idle_spear_42: 143077990904202281
+      idle_spear_43: 2681932647532420636
+      idle_spear_44: 1403992767432365228
+      idle_spear_45: -2232391690237039895
+      idle_spear_46: 3258408744076406451
+      idle_spear_47: -3090200994948368855
+      idle_spear_5: -3088502528350539229
+      idle_spear_6: -952930035989575971
+      idle_spear_7: -5853618923591620853
+      idle_spear_8: 4243946485167094023
+      idle_spear_9: 3436444979320358936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

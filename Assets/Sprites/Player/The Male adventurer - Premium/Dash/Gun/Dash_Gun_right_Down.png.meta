@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dash_Gun_right_Down_0: 5964964105901751453
+      Dash_Gun_right_Down_1: -3073256520900564289
+      Dash_Gun_right_Down_2: -4386566697936246438
+      Dash_Gun_right_Down_3: 6238077414232603412
+      Dash_Gun_right_Down_4: -5033301637560490429
+      Dash_Gun_right_Down_5: 8992995225098733328
+      Dash_Gun_right_Down_6: -2721376779435837487
+      Dash_Gun_right_Down_7: 3820537709077212779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

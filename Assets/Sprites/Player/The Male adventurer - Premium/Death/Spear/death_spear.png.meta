@@ -1560,7 +1560,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_spear_0: 8457882830668662143
+      death_spear_1: 2413621205466258819
+      death_spear_10: -7584171443546068096
+      death_spear_11: 1697308465628558030
+      death_spear_12: 8035122053434769045
+      death_spear_13: 4658225651540960870
+      death_spear_14: -950006464190566776
+      death_spear_15: 4278103427087649114
+      death_spear_16: -6841621645666904115
+      death_spear_17: 3056490406044692355
+      death_spear_18: 1939990649473688006
+      death_spear_19: -9049037230708967615
+      death_spear_2: 8574976071226099163
+      death_spear_20: -5083519636467342473
+      death_spear_21: -1853150820082801097
+      death_spear_22: -498621221459954312
+      death_spear_23: 150471575767512497
+      death_spear_24: -2019372495479767175
+      death_spear_25: 5730005149060635987
+      death_spear_26: 6563375352068446534
+      death_spear_27: 4890213105386372782
+      death_spear_28: -1487172471557252718
+      death_spear_29: 7175144980075256929
+      death_spear_3: 5134806908927978759
+      death_spear_30: 3805656691345882544
+      death_spear_31: -2955326957212410885
+      death_spear_32: -937481977195404972
+      death_spear_33: -4893503814795091063
+      death_spear_34: 4737470338700822004
+      death_spear_35: 8470812055547365568
+      death_spear_36: -1871444856018350166
+      death_spear_37: 119583835165441259
+      death_spear_38: -6474407079443264139
+      death_spear_39: -7672258070814935559
+      death_spear_4: 2141390241867057615
+      death_spear_40: 3919042813403989084
+      death_spear_41: -2897102714468615945
+      death_spear_42: -6706080920333588869
+      death_spear_43: -3180756970617883000
+      death_spear_44: -8667276118167735781
+      death_spear_45: 1865505158945197267
+      death_spear_46: -1560664727760515341
+      death_spear_47: 2847668446341875056
+      death_spear_48: 6975352802514443506
+      death_spear_49: 6109867305446544883
+      death_spear_5: 5869027573250508480
+      death_spear_50: -158386063167123588
+      death_spear_51: 5006833640129352911
+      death_spear_52: 8846514911636136412
+      death_spear_53: 3771879389393379163
+      death_spear_54: 236664344906861788
+      death_spear_55: -1656429020053473819
+      death_spear_56: -2234397010128813618
+      death_spear_6: 8343067527294268573
+      death_spear_7: -2781498401985616580
+      death_spear_8: 6448066555476587613
+      death_spear_9: -1693374455947541805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
